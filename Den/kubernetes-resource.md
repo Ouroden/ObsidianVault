@@ -1,0 +1,16 @@
+ - [[kubernetes-resource-Namespace]]
+ - [[kubernetes-resource-Pod]]
+ - [[kubernetes-resource-ReplicaSet]]
+ - [[kubernetes-resource-Deployment]]
+ - [[kubernetes-resource-Service]]
+ - [[kubernetes-resource-Job]]
+ - [[kubernetes-resource-CronJob]]
+ - [[kubernetes-resource-DaemonSet]]
+ - [[kubernetes-resource-StatefulSet]]
+ - [[kubernetes-resource-ConfigMap]]
+ - [[kubernetes-resource-Secret]]
+ - [[kubernetes-resource-Ingress]]
+ - [[kubernetes-resource-GatewayAPI]]
+ - [[kubernetes-resource-template]]
+
+#kubernetes #kubernetes-resources
